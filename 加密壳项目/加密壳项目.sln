@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "进行加密操作的程序", "加密壳项目\加密壳项目.vcxproj", "{F7747481-AF8C-47BD-819D-12CC90D1BE5E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "源程序", "源程序\源程序.vcxproj", "{2CD182B4-F600-4E05-81AB-7EBB31AE7379}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "壳程序", "壳程序\壳程序.vcxproj", "{4C0A6003-1866-4BC0-9C18-7A512026AEC5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "进行解密操作的程序", "进行解密操作的程序\进行解密操作的程序.vcxproj", "{613F0CE6-DD50-4F88-B70B-3947BD1976A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Debug|x64.ActiveCfg = Debug|x64
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Debug|x64.Build.0 = Debug|x64
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Debug|x86.Build.0 = Debug|Win32
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Release|x64.ActiveCfg = Release|x64
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Release|x64.Build.0 = Release|x64
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Release|x86.ActiveCfg = Release|Win32
+		{F7747481-AF8C-47BD-819D-12CC90D1BE5E}.Release|x86.Build.0 = Release|Win32
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Debug|x64.ActiveCfg = Debug|x64
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Debug|x64.Build.0 = Debug|x64
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Debug|x86.ActiveCfg = Debug|Win32
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Debug|x86.Build.0 = Debug|Win32
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Release|x64.ActiveCfg = Release|x64
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Release|x64.Build.0 = Release|x64
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Release|x86.ActiveCfg = Release|Win32
+		{2CD182B4-F600-4E05-81AB-7EBB31AE7379}.Release|x86.Build.0 = Release|Win32
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Debug|x64.ActiveCfg = Debug|x64
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Debug|x64.Build.0 = Debug|x64
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Debug|x86.Build.0 = Debug|Win32
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Release|x64.ActiveCfg = Release|x64
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Release|x64.Build.0 = Release|x64
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Release|x86.ActiveCfg = Release|Win32
+		{4C0A6003-1866-4BC0-9C18-7A512026AEC5}.Release|x86.Build.0 = Release|Win32
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Debug|x64.ActiveCfg = Debug|x64
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Debug|x64.Build.0 = Debug|x64
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Debug|x86.Build.0 = Debug|Win32
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Release|x64.ActiveCfg = Release|x64
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Release|x64.Build.0 = Release|x64
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Release|x86.ActiveCfg = Release|Win32
+		{613F0CE6-DD50-4F88-B70B-3947BD1976A6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F046FD5D-B57B-4DC9-B084-958F2A0E4879}
+	EndGlobalSection
+EndGlobal
